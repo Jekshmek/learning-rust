@@ -1,0 +1,5 @@
+DB_NAME=rust
+DB_HOST=db
+DB_USER=root
+DB_PASSWORD=root
+DB_TYPE=mysql
